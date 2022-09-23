@@ -1,0 +1,2 @@
+# Challenge-5-Whack-a-Food
+ This is the fourth challenge in the course - Create with Code, Unit 5 - User Interface in Unity Projects where I put my User Interface skills to the test with this whack-a-mole-like challenge in which I have to get all the food that pops up on a grid while avoiding the skulls. I have to debug buttons, mouse clicks, score tracking, restart sequences, and difficulty setting to get to the bottom of this one.
